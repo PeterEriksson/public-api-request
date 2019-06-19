@@ -19,8 +19,8 @@ async function getUsers(url) {
     
 }
 
-console.log(getUsers(url)); //test ok
-
+//console.log(getUsers(url)); //test ok
+//
 
 //We need to build the HTML to display the photos on our page
 //loop through the data with the foreach method. Assign html elements and insert info to each user.
